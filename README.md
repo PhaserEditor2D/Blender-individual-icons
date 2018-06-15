@@ -1,5 +1,5 @@
 # Blender individual icons
-## ![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/PNG-32x32/ICON_ERROR.png) WARNING: I've copied this repository on [Gitlab](https://gitlab.com/ChameleonScales/Blender-individual-icons) and will delete this one after a while. Sorry if I break my promise, I didn't expect the news about Microsoft buying Github but I should've used Gitlab from the begining anyway.
+## ![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/PNG-32x32/ICON_ERROR.png) WARNING: I've copied this repository on [Gitlab](https://gitlab.com/ChameleonScales/Blender-individual-icons) and will delete this one after a while. Sorry if I break my promise, I didn't expect the news about Microsoft buying Github but I should've used Gitlab from the beginning anyway.
 ### Here you'll find all the icons made by Andrzej Ambroz (Jendrzych) for the Blender interface, separated in individual images so you can link them in forum posts or download them
 (I'll keep this repo for as long as Github lives and will let the URLs intact).
 For now they're all in alphabetical order (maybe I'll categorize them... But this won't change the URLs!)
